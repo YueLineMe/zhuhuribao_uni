@@ -1,0 +1,5 @@
+<template name="5c5c0b2c">
+  <view class="_view data-v-d55be1e6">
+    <rich-text id="newInfo" nodes="{{body}}" class="_view data-v-d55be1e6"></rich-text>
+  </view>
+</template>

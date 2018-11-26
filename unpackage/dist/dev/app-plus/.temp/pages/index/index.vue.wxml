@@ -1,0 +1,14 @@
+<template name="5ec7fa10">
+  <view class="_view data-v-47664b93 content">
+    <view class="_view data-v-47664b93 uni-list">
+      <view class="_view data-v-47664b93 uni-list-cell" hover-class="uni-list-cell-hover" wx:key="index" key="{{index}}" wx:for="{{list}}" wx:for-index="index" wx:for-item="item">
+        <view class="_view data-v-47664b93 uni-media-list">
+          <image class="_image data-v-47664b93 uni-media-list-logo" src="{{item.images}}"></image>
+          <view class="_view data-v-47664b93 uni-media-list-body">
+            <view class="_view data-v-47664b93 uni-media-list-text-top">{{item.title}}</view>
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+</template>
